@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Jhowardschimmel/star-trek-character-generator/issues"
   },
-  "homepage": "https://github.com/Jhowardschimmel/star-trek-character-generator#readme"
+  "homepage": "https://github.com/Jhowardschimmel/star-trek-character-generator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
