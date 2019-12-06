@@ -1,0 +1,16 @@
+.parent {
+    display: flex;
+    height: 300px;
+}
+
+.child {
+    
+    margin: auto;
+}
+
+.flex-container {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-around;
+}
+
